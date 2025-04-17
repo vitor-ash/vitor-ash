@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏅I'm getting prepared for Informatic Olympiads<br>🌱 I'm currently learning C++<br>💬 Anything you want, mainly math<br>📫 How to reach me: through discord, just check it out: ashari._.<br>😄 Pronouns: he/him<br>💫 Math is beauty<br>
+🏅I'm getting prepared for Informatics Olympiads<br>📖 I'm currently learning C++, git, and many other things<br>📫 How to reach me: through discord, just check it out: ashari._.<br>🐈‍⬛ Pronouns: he/him<br>☄️ Math is beauty, knowledge is power and cats are adorable :p<br>
 
 
 ## 🌐 Socials:
