@@ -1,7 +1,6 @@
 # 💫 About Me:
 🏅I'm getting prepared for Informatics Olympiads<br>📖 I'm currently learning C++, git, and many other things<br>📫 How to reach me: through discord, just check it out: ashari._.<br>🐈‍⬛ Pronouns: he/him<br>☄️ Math is beauty, knowledge is power and cats are adorable :p<br>
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/755929053067739216) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vitorash) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@AshariXD) 
 
@@ -14,3 +13,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vitor-ash&icon=0&color=4)](https://visitcount.itsvg.in)
+
